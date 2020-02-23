@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.ConsoleUI.pdb
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\obj\Debug\Garage.ConsoleUI.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\obj\Debug\Garage.ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\obj\Debug\Garage.ConsoleUI.pdb
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.GeneralLogic.dll
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.GeneralLogic.pdb
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.GeneralLogic.dll.config
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\obj\Debug\Garage.ConsoleUI.csproj.CopyComplete
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.ConsoleUI.exe.config
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\bin\Debug\Garage.ConsoleUI.exe
+E:\Visual Studio Projects\Garage.ConsoleUI\Garage.ConsoleUI\obj\Debug\Garage.ConsoleUI.exe

@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\bin\Debug\Garage.GeneralLogic.pdb
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\obj\Debug\Garage.GeneralLogic.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\obj\Debug\Garage.GeneralLogic.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\obj\Debug\Garage.GeneralLogic.pdb
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\bin\Debug\Garage.GeneralLogic.dll.config
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\bin\Debug\Garage.GeneralLogic.dll
+E:\Visual Studio Projects\Garage.GeneralLogic\Garage.GeneralLogic\obj\Debug\Garage.GeneralLogic.dll
